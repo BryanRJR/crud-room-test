@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pretest_ORM</string>
+    <string name="btn_save">SAVE</string>
+    <string name="splash_txt">Your Simple CRUD</string>
+    <string name="btn_clear_data">Clear Data</string>
+    <string name="txt_menu_crud_one">Your CRUD</string>
+    <string name="txt_menu_crud_two">Manage your activity</string>
+</resources>
